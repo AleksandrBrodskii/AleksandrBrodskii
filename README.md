@@ -4,4 +4,5 @@
 
 
 ![Static Badge](https://img.shields.io/badge/py-python-green?logo=python)
+![Static Badge](https://img.shields.io/badge/student-green?logo=python)
 
